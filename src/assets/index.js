@@ -28,6 +28,8 @@ import step from "./step.png"
 import sol_star_black from "./sol_star_black.png"
 import sol_star_white from "./sol_star_white.png"
 import step_dao from "./step_dao.png"
+import qr from "./qr.svg"
+import qrcode from "./qr-code.png"
 
 export {
   airbnb,
@@ -60,4 +62,6 @@ export {
   sol_star_black,
   sol_star_white,
   step_dao,
+  qr,
+  qrcode,
 };
