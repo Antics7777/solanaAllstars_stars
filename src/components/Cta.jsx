@@ -42,7 +42,7 @@ const Cta = () => {
           </tr>
           <tr className="border border-solid border-l-0 border-r-0">
             <th className="text-md px-6 py-3">6</th>
-            <th className="text-md px-6 py-3">SAMO / SOLANA PRESENTATION </th>
+            <th className="text-md px-6 py-3">OPPORTUNITIES IN SOLANA (SOLANA ALLSTARS/STEPDAO) </th>
           </tr>
           <tr className="border border-solid border-l-0 border-r-0">
             <th className="text-md px-6 py-3">7</th>
