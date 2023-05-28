@@ -17,9 +17,9 @@ export const navLinks = [
     link: "https://www.stepdao.org/bounties",
   },
   {
-    id: "events",
-    title: "Events",
-    link: "#events",
+    id: "qr",
+    title: "Qr Code",
+    link: "#qr",
   },
 ];
 
@@ -36,7 +36,7 @@ export const features = [
     icon: shield,
     title: "100% Secured",
     content:
-      "Solana Allstars stands as the for front of the solana blockchain.",
+      "Transactions on Solana Network are Fast, Secure and Reliable.",
   },
   {
     id: "feature-3",
