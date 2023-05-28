@@ -98,7 +98,7 @@ export const footerLinks = [
     links: [
       {
         name: "Home",
-        link: "#home",
+        link: "#",
       },
       {
         name: "Agenda",
