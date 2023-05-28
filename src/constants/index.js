@@ -4,18 +4,22 @@ export const navLinks = [
   {
     id: "home",
     title: "Home",
+    link: "#home",
   },
   {
     id: "agenda",
     title: "Agenda",
+    link: "#agenda",
   },
   {
-    id: "https://www.stepdao.org/bounties",
+    id: "bounty",
     title: "Bounties",
+    link: "https://www.stepdao.org/bounties",
   },
   {
     id: "events",
     title: "Events",
+    link: "#events",
   },
 ];
 

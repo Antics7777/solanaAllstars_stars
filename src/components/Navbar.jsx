@@ -13,7 +13,7 @@ const Navbar = () => {
           <li
             key={nav.id}
             className={`font-poppins`}>
-            <a href={`${nav.id}`} className={`font-normal cursor-pointer text-[16px] ${index === navLinks.length - 1 ? 'mr-0 ' : 'mr-10'} text-white `}>
+            <a href={`${nav.link}`} className={`font-normal cursor-pointer text-[16px] ${index === navLinks.length - 1 ? 'mr-0 ' : 'mr-10'} text-white `}>
               {nav.title}
             </a>
            
@@ -32,7 +32,7 @@ const Navbar = () => {
               <li
                 key={nav.id}
                 className={`font-poppins`}>
-                <a href={`#${nav.id}`} className={`font-normal cursor-pointer text-[16px] ${index === navLinks.length - 1 ? 'mr-0 ' : 'mb-[20px] mt-5'} text-white `}>
+                <a href={`${nav.link}`} className={`font-normal cursor-pointer text-[16px] ${index === navLinks.length - 1 ? 'mr-0 ' : 'mb-[20px] mt-5'} text-white `}>
                   {nav.title}
                 </a>
               </li>

@@ -21,7 +21,7 @@ const FeatureCard = ({ icon, title, content, index }) => (
 
 const Business = () => {
   return (
-    <section id="features" className={layout.section}>
+    <section id="agenda" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
       Number one Crypto <br className="sm:block hidden" /> Community  
