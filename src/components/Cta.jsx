@@ -3,7 +3,7 @@ import styles, { layout } from "../style";
 
 const Cta = () => {
   return (
-    <div className="relative w-full   flex  flex-col shadow-lg mt-4 mb-6 rounded-md text-black text-left">
+    <div id="agenda" className="relative w-full   flex  flex-col shadow-lg mt-4 mb-6 rounded-md text-black text-left">
       <table className={`w-auto bg-blue-gradient rounded-md font-poppins shadow-md  ${layout.paragraph}`}>
         <thead className="">
           <tr className="">
