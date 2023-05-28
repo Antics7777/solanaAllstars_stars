@@ -97,82 +97,56 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "Home",
+        link: "#home",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        name: "Agenda",
+        link: "#agenda",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
+        name: "Bounties",
+        link: "#bounties",
       },
       {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        name: "Event",
+        link: "#",
       },
-      {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
-      },
+     
     ],
   },
   {
     title: "Community",
     links: [
       {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        name: "Whatsapp",
+        link: "https://chat.whatsapp.com/Jl6jj9MNbva0Y01dI6WpQd",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "Discord",
+        link: "https://discord.gg/7Un4y6GM",
       },
-      {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
-      },
-      {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
+     
     ],
   },
   {
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
+        name: "Step Finance",
         link: "https://www.hoobank.com/our-partner/",
       },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
-      },
+      
     ],
   },
 ];
 
 export const socialMedia = [
-  {
-    id: "social-media-1",
-    icon: instagram,
-    link: "https://www.instagram.com/",
-  },
-  {
-    id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
-  },
+
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://twitter.com/SolanaAllstars",
   },
   {
     id: "social-media-4",
